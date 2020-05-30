@@ -8,7 +8,8 @@ gem 'devise', '~> 4.7', '>= 4.7.1'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'acts_as_votable', '~> 0.10.0'
-
+gem 'simple_form'
+gem 'record_tag_helper', '~> 1.0', '>= 1.0.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.2'
